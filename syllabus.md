@@ -17,14 +17,15 @@ Grading.  Grades will be assigned based on students’ performance in the Friday
 
 Text books.  Students should obtain the following books:
 
-Buffalo, V (2014). Bioinformatics Data Skills.
+Buffalo, V (2014). Bioinformatics Data Skills. ([buy from O'Reilly](http://shop.oreilly.com/product/0636920030157.do))
 
-Dalgaard, P (2008).  Introductory Statistics with R, 2nd edition.
+Dalgaard, P (2008).  Introductory Statistics with R, 2nd edition. ([pdf](http://www.academia.dk/BiologiskAntropologi/Epidemiologi/PDF/Introductory_Statistics_with_R__2nd_ed.pdf), [buy on Amazon](http://www.amazon.com/Introductory-Statistics-R-Computing/dp/0387954759)) 
 
-Matloff, N  (2011).  The Art of R Programming.
+Matloff, N  (2011).  The Art of R Programming. ([pdf](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fsens.tistory.com%2Fattachment%2Fcfile8.uf%402375DC3D515423F9110CA1.pdf&ei=E-8FVO6dAYmnggSttoD4Bg&usg=AFQjCNE1UmWRG3i9ugNDSXN2WjRSTkkUjA&sig2=U958L8LG42vuhHdPKKBHHw&bvm=bv.74115972,d.eXY), [buy on Amazon](http://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843/ref=sr_1_1?s=books&ie=UTF8&qid=1409674972&sr=1-1&keywords=the+art+of+r+programming)) 
 
-Chacon, S (2010). ProGit.
 
-Additional materials. Supplemental YouTube videos and online tutorials will be assigned.
+Chacon, S (2010). ProGit.  ([pdf](http://git-scm.com/book), [buy on Amazon](http://www.amazon.com/Pro-Git-Scott-Chacon/dp/1430218339))
+
+Additional materials. Supplemental [YouTube](https://www.youtube.com/) videos and online tutorials will be assigned.
  
 Software. You will need to install R and Rstudio
