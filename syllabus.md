@@ -1,15 +1,15 @@
 ##MICRBIOL 612:  Microbial Informatics
 
-Instructor:  [Patrick D. Schloss, PhD](http://www.med.umich.edu/microbio/bio/schloss.htm) 
-Office hours:  Mondays (3:00-5:00 PM) in [1520A MSRB I](http://campusinfo.umich.edu/campusmap) 
+Instructor:  [Patrick D. Schloss, PhD](http://www.med.umich.edu/microbio/bio/images/schloss.jpg)                       
+Office hours:  Mondays (**3:00-5:00 PM**) in [1520A MSRB I](http://campusinfo.umich.edu/campusmap) 
 
-Lectures:  Tuesdays and Thursdays (10:00-11:00 AM) 
-Laboratory:  Fridays (1:30-3:30 PM) 
-Location: 5623 Med Sci II 
+Lectures:  Tuesdays and Thursdays (**10:00-11:00 AM**)                                  
+Laboratory:  Fridays (**1:30-3:30 PM**)                                       
+Location: 5623 Med Sci II                                   
 
 
 
-###Coruse description
+###Course description
 
 Increasingly, microbiologists are generating large and varied datasets that must be integrated with data from traditional approaches to test hypotheses and identify new avenues of research.  This course will give microbiologists the background they need to design robust experiments, implement traditional statistical approaches for small and large datasets, and utilize the R statistical programming software to perform well-documented and reproducible results.  The R statistical software language will be used throughout the course to introduce students to statistical techniques and computer programming.  R is a powerful open source programming language that anyone can contribute code to.  This has resulted in its widespread use, especially in the field of biostatistics and bioinformatics.  In addition to a comprehensive suite of statistical resources, R is capable of producing highly customizable data visualizations.
 
@@ -25,14 +25,14 @@ Grades will be assigned based on students’ performance in the Friday laborator
 
 Students should obtain the following books:
 
-Buffalo, V (2014). Bioinformatics Data Skills. ([buy from O'Reilly](http://shop.oreilly.com/product/0636920030157.do))
+Buffalo, V (**2014**). Bioinformatics Data Skills. ([buy from O'Reilly](http://shop.oreilly.com/product/0636920030157.do))
 
-Dalgaard, P (2008).  Introductory Statistics with R, 2nd edition. ([pdf](http://www.academia.dk/BiologiskAntropologi/Epidemiologi/PDF/Introductory_Statistics_with_R__2nd_ed.pdf), [buy on Amazon](http://www.amazon.com/Introductory-Statistics-R-Computing/dp/0387954759)) 
+Dalgaard, P (**2008**).  Introductory Statistics with R, 2nd edition. ([pdf](http://www.academia.dk/BiologiskAntropologi/Epidemiologi/PDF/Introductory_Statistics_with_R__2nd_ed.pdf), [buy on Amazon](http://www.amazon.com/Introductory-Statistics-R-Computing/dp/0387954759)) 
 
-Matloff, N  (2011).  The Art of R Programming. ([pdf](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fsens.tistory.com%2Fattachment%2Fcfile8.uf%402375DC3D515423F9110CA1.pdf&ei=E-8FVO6dAYmnggSttoD4Bg&usg=AFQjCNE1UmWRG3i9ugNDSXN2WjRSTkkUjA&sig2=U958L8LG42vuhHdPKKBHHw&bvm=bv.74115972,d.eXY), [buy on Amazon](http://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843/ref=sr_1_1?s=books&ie=UTF8&qid=1409674972&sr=1-1&keywords=the+art+of+r+programming)) 
+Matloff, N  (**2011**).  The Art of R Programming. ([pdf](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fsens.tistory.com%2Fattachment%2Fcfile8.uf%402375DC3D515423F9110CA1.pdf&ei=E-8FVO6dAYmnggSttoD4Bg&usg=AFQjCNE1UmWRG3i9ugNDSXN2WjRSTkkUjA&sig2=U958L8LG42vuhHdPKKBHHw&bvm=bv.74115972,d.eXY), [buy on Amazon](http://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843/ref=sr_1_1?s=books&ie=UTF8&qid=1409674972&sr=1-1&keywords=the+art+of+r+programming)) 
 
 
-Chacon, S (2010). ProGit.  ([pdf](http://git-scm.com/book), [buy on Amazon](http://www.amazon.com/Pro-Git-Scott-Chacon/dp/1430218339))
+Chacon, S (**2010**). ProGit.  ([pdf](http://git-scm.com/book), [buy on Amazon](http://www.amazon.com/Pro-Git-Scott-Chacon/dp/1430218339))
 
 Additional materials. Supplemental [YouTube](https://www.youtube.com/) videos and online tutorials will be assigned.
  
