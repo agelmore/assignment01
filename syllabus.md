@@ -1,7 +1,7 @@
 ##MICRBIOL 612:  Microbial Informatics
 
-Instructor:  Patrick D. Schloss, PhD
-Office hours:  Mondays (3:00-5:00 PM) in 1520A MSRB I
+Instructor:  [Patrick D. Schloss, PhD](http://www.med.umich.edu/microbio/bio/schloss.htm)
+Office hours:  Mondays (3:00-5:00 PM) in [1520A MSRB I](http://campusinfo.umich.edu/campusmap)
 
 Lectures:  Tuesdays and Thursdays (10:00-11:00 AM)
 Laboratory:  Fridays (1:30-3:30 PM)
@@ -28,4 +28,4 @@ Chacon, S (2010). ProGit.  ([pdf](http://git-scm.com/book), [buy on Amazon](http
 
 Additional materials. Supplemental [YouTube](https://www.youtube.com/) videos and online tutorials will be assigned.
  
-Software. You will need to install R and Rstudio
+Software. You will need to install [R](http://www.r-project.org/) and [Rstudio](http://www.rstudio.com/products/rstudio/download/)
