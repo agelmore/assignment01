@@ -7,7 +7,7 @@
 *Laboratory*:  Fridays (**1:30-3:30 PM**)                                       
 *Location*: 5623 Med Sci II                                   
 
-
+![](http://usfinancepost.com/wp-content/uploads/2014/05/bacteria-generic-110121-02.jpg)
 
 ###Course description
 
